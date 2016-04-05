@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-some line 2
-=======
-some line 1
->>>>>>> ea6831fdbc2efaf145ee7e91852f044b26877a2d
-added something
-+++++
+one branch
